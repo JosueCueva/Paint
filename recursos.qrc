@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>Recursos/anchura.png</file>
+        <file>Recursos/circulo-de-color.png</file>
+        <file>Recursos/circunferencia.png</file>
+        <file>Recursos/crear.png</file>
+        <file>Recursos/disco-flexible.png</file>
+        <file>Recursos/linea-curva-vectorial.png</file>
+        <file>Recursos/linea-diagonal.png</file>
+        <file>Recursos/paint-palette.png</file>
+        <file>Recursos/rectangulo.png</file>
+        <file>Recursos/salida.png</file>
+    </qresource>
+</RCC>
